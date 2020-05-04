@@ -1,4 +1,5 @@
 #Simple linear regression 
+#Dataset: https://www.kaggle.com/andonians/random-linear-regression
 
 # Import the necessary libraries
 import pandas as pd
